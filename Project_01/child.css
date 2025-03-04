@@ -1,0 +1,17 @@
+/* learn CSS specificity */
+
+h1{
+background-color: blue !important;
+}
+
+.heading{
+    background-color: coral;
+}
+
+#title{
+background-color: orange;
+}
+
+/* priority
+important line > inline styeling> id >heading>tag
+*/
